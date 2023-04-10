@@ -8,6 +8,6 @@ To come to our final answer, we added together the rankings our code ascribed fo
 The notable functions of our code include its use of APIs to find location data for each county; a function to weigh state-level data for each county differently, depending on the number of counties in each state; and functions to rank each county based on its overall performance in each area of measurement.
 The code also exports plots and merged .csv files for future manipulation and analysis.
 
-#Authors
+# Authors
 Bryan Ropp, Geoffrey Hoehn, and Daniel Adamson
 
